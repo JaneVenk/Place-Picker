@@ -28,4 +28,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Watch Demo Video
 
-[![Video]([https://drive.google.com/uc?export=view&id=YOUR_FILE_ID](https://drive.google.com/file/d/1dBTUtljQHvUFkAl87v-BxWOOQs1PkOZA/view?usp=drive_link))]([https://drive.google.com/file/d/YOUR_FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1dBTUtljQHvUFkAl87v-BxWOOQs1PkOZA/view?usp=drive_link))
+[![Video](https://drive.google.com/uc?export=view&id=1dBTUtljQHvUFkAl87v-BxWOOQs1PkOZA)](https://drive.google.com/file/d/1dBTUtljQHvUFkAl87v-BxWOOQs1PkOZA/view?usp=sharing)
