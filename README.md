@@ -12,5 +12,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Demo video
 
-[Watch demo video](https://drive.google.com/file/d/1dBTUtljQHvUFkAl87v-BxWOOQs1PkOZA/view?usp=sharing)
+[Watch demo video](https://drive.google.com/file/d/1dBTUtljQHvUFkAl87v-BxWOOQs1PkOZA/view?usp=sharing) (Right-click and choose "Open link in new tab" or `Ctrl+Click`)
 
